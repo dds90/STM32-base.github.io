@@ -1,6 +1,6 @@
 plugins:
- - jekyll-feed
- - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-sitemap
 
 title: "STM32-base project"
 logo: "/assets/img/logos/STM32-base_logo_full_transparent.png"
